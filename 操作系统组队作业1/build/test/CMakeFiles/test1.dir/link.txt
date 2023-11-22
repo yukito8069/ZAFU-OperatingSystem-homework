@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/test1.dir/test.cpp.o -o ../../bin/test1   -L/home/yukito8069/homework/操作系统组队作业1/lib  -Wl,-rpath,/home/yukito8069/homework/操作系统组队作业1/lib ../../lib/liblibname.a 

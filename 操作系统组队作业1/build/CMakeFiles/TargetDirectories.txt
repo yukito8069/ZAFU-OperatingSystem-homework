@@ -1,0 +1,8 @@
+/home/yukito8069/homework/操作系统组队作业1/build/CMakeFiles/edit_cache.dir
+/home/yukito8069/homework/操作系统组队作业1/build/CMakeFiles/rebuild_cache.dir
+/home/yukito8069/homework/操作系统组队作业1/build/src/CMakeFiles/libname.dir
+/home/yukito8069/homework/操作系统组队作业1/build/src/CMakeFiles/edit_cache.dir
+/home/yukito8069/homework/操作系统组队作业1/build/src/CMakeFiles/rebuild_cache.dir
+/home/yukito8069/homework/操作系统组队作业1/build/test/CMakeFiles/test1.dir
+/home/yukito8069/homework/操作系统组队作业1/build/test/CMakeFiles/edit_cache.dir
+/home/yukito8069/homework/操作系统组队作业1/build/test/CMakeFiles/rebuild_cache.dir
